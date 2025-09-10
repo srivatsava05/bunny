@@ -1,7 +1,4 @@
 ﻿# Craftify_Web_Catalyst
-Of course. Here is the rest of the README file.
-
------
 
 ## \#\# API Endpoints
 
@@ -66,3 +63,4 @@ If you have a suggestion that would make this better, please fork the repo and c
 Srivatsava - [@your\_twitter\_handle](https://www.google.com/search?q=https://twitter.com/your_twitter_handle) - your-email@example.com
 
 Project Link: [https://github.com/srivatsava05/bunny](https://github.com/srivatsava05/bunny)
+
